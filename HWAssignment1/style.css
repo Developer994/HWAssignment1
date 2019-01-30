@@ -1,0 +1,104 @@
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: grey;
+    background: grey;
+    width: 960px;
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+.header {
+    background: beige;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-top: -30px;
+    margin-bottom: -15px;
+}
+
+.nav {
+    background: beige;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 25px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 40px;
+}
+
+.sectionAndArticleContainer {
+    display: flex;
+    flex-direction
+
+}
+
+.sectionContainer {
+    font-size: 18px;
+    color: grey;
+    background: beige;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    width: 495px;
+    float: left;
+    text-align: center;
+    height: 300px;
+}
+
+.article {
+    font-size: 18px;
+    color: beige;
+    background: grey;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.h1 {
+    color: grey;
+    background: beige;
+    margin-top: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.p {
+    color: grey;
+    background: beige;
+    margin-top: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.aside {
+    text-align: center;
+    color: grey;
+    background: beige;
+    float: right;
+    width: 345px;
+    height: 310px;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding-top: 25px;
+    padding-right: 25px;
+}
+
+.footer {
+    background: beige;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-top: 15px;
+}
